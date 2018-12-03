@@ -1,0 +1,435 @@
+# Reading C:/intelFPGA_lite/18.1/modelsim_ase/tcl/vsim/pref.tcl
+# do EnhancedProcessor_run_msim_rtl_verilog.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 10.5b Lib Mapping Utility 2016.10 Oct  5 2016
+# vmap work rtl_work 
+# Copying C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor {C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/reg_enable.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:54:17 on Dec 02,2018
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor" C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/reg_enable.v 
+# -- Compiling module reg_enable
+# 
+# Top level modules:
+# 	reg_enable
+# End time: 16:54:17 on Dec 02,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor {C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/processor.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:54:17 on Dec 02,2018
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor" C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/processor.v 
+# -- Compiling module processor
+# 
+# Top level modules:
+# 	processor
+# End time: 16:54:18 on Dec 02,2018, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor {C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/enhanced_processor_top.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:54:18 on Dec 02,2018
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor" C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/enhanced_processor_top.v 
+# -- Compiling module enhanced_processor_top
+# 
+# Top level modules:
+# 	enhanced_processor_top
+# End time: 16:54:18 on Dec 02,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor {C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/dec3to8.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:54:18 on Dec 02,2018
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor" C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/dec3to8.v 
+# -- Compiling module dec3to8
+# 
+# Top level modules:
+# 	dec3to8
+# End time: 16:54:18 on Dec 02,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor {C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/addsub.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:54:18 on Dec 02,2018
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor" C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/addsub.v 
+# -- Compiling module addsub
+# 
+# Top level modules:
+# 	addsub
+# End time: 16:54:18 on Dec 02,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor {C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/counterlpm.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:54:18 on Dec 02,2018
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor" C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/counterlpm.v 
+# -- Compiling module counterlpm
+# 
+# Top level modules:
+# 	counterlpm
+# End time: 16:54:18 on Dec 02,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor {C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/sram_1p.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:54:18 on Dec 02,2018
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor" C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/sram_1p.v 
+# -- Compiling module sram_1p
+# 
+# Top level modules:
+# 	sram_1p
+# End time: 16:54:18 on Dec 02,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+vsim work.enhanced_processor_top -Lf altera_mf_ver -Lf lpm_ver
+# vsim work.enhanced_processor_top -Lf altera_mf_ver -Lf lpm_ver 
+# Start time: 16:54:38 on Dec 02,2018
+# Loading work.enhanced_processor_top
+# Loading work.processor
+# Loading work.dec3to8
+# Loading work.reg_enable
+# Loading work.addsub
+# Loading work.counterlpm
+# Loading lpm_ver.lpm_counter
+# Loading work.sram_1p
+# Loading altera_mf_ver.altsyncram
+# Loading altera_mf_ver.altsyncram_body
+# Loading altera_mf_ver.ALTERA_DEVICE_FAMILIES
+# Loading altera_mf_ver.ALTERA_MF_MEMORY_INITIALIZATION
+# ** Warning: (vsim-3015) C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/processor.v(313): [PCDPC] - Port size (9) does not match connection size (1) for port 'D'. The port definition is at: C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/reg_enable.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /enhanced_processor_top/p0/reg_WEN File: C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/reg_enable.v
+# ** Warning: (vsim-3015) C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/processor.v(313): [PCDPC] - Port size (9) does not match connection size (1) for port 'Q'. The port definition is at: C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/reg_enable.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /enhanced_processor_top/p0/reg_WEN File: C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/reg_enable.v
+
+do C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/simulation/modelsim/wave1.do
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+restart -f -nolist -nowave -nolog -nobreak -novirtuals -noassertions -nofcovers -noatv
+# ** Warning: (vsim-3015) C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/processor.v(313): [PCDPC] - Port size (9) does not match connection size (1) for port 'D'. The port definition is at: C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/reg_enable.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /enhanced_processor_top/p0/reg_WEN File: C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/reg_enable.v
+# ** Warning: (vsim-3015) C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/processor.v(313): [PCDPC] - Port size (9) does not match connection size (1) for port 'Q'. The port definition is at: C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/reg_enable.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /enhanced_processor_top/p0/reg_WEN File: C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/reg_enable.v
+do C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/simulation/modelsim/wave1.do
+run
+run
+run
+run
+run
+run
+run
+run
+restart -f -nolist -nowave -nolog -nobreak -novirtuals -noassertions -nofcovers -noatv
+# ** Warning: (vsim-3015) C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/processor.v(313): [PCDPC] - Port size (9) does not match connection size (1) for port 'D'. The port definition is at: C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/reg_enable.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /enhanced_processor_top/p0/reg_WEN File: C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/reg_enable.v
+# ** Warning: (vsim-3015) C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/processor.v(313): [PCDPC] - Port size (9) does not match connection size (1) for port 'Q'. The port definition is at: C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/reg_enable.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /enhanced_processor_top/p0/reg_WEN File: C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/reg_enable.v
+do C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/simulation/modelsim/wave1.do
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# WARNING: No extended dataflow license exists
+quit -sim
+# End time: 16:59:58 on Dec 02,2018, Elapsed time: 0:05:20
+# Errors: 0, Warnings: 7
+vsim work.enhanced_processor_top -Lf altera_mf_ver -Lf lpm_ver
+# vsim work.enhanced_processor_top -Lf altera_mf_ver -Lf lpm_ver 
+# Start time: 17:00:16 on Dec 02,2018
+# Loading work.enhanced_processor_top
+# Loading work.processor
+# Loading work.dec3to8
+# Loading work.reg_enable
+# Loading work.addsub
+# Loading work.counterlpm
+# Loading lpm_ver.lpm_counter
+# Loading work.sram_1p
+# Loading altera_mf_ver.altsyncram
+# Loading altera_mf_ver.altsyncram_body
+# Loading altera_mf_ver.ALTERA_DEVICE_FAMILIES
+# Loading altera_mf_ver.ALTERA_MF_MEMORY_INITIALIZATION
+# ** Warning: (vsim-3015) C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/processor.v(313): [PCDPC] - Port size (9) does not match connection size (1) for port 'D'. The port definition is at: C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/reg_enable.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /enhanced_processor_top/p0/reg_WEN File: C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/reg_enable.v
+# ** Warning: (vsim-3015) C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/processor.v(313): [PCDPC] - Port size (9) does not match connection size (1) for port 'Q'. The port definition is at: C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/reg_enable.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /enhanced_processor_top/p0/reg_WEN File: C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/reg_enable.v
+do C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/simulation/modelsim/wave1.do
+run 500
+run 1000
+add wave -position 5  sim:/enhanced_processor_top/run_sync_1x
+add wave -position 6  sim:/enhanced_processor_top/run_sync_2x
+restart -f -nolist -nowave -nolog -nobreak -novirtuals -noassertions -nofcovers -noatv
+# ** Warning: (vsim-3015) C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/processor.v(313): [PCDPC] - Port size (9) does not match connection size (1) for port 'D'. The port definition is at: C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/reg_enable.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /enhanced_processor_top/p0/reg_WEN File: C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/reg_enable.v
+# ** Warning: (vsim-3015) C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/processor.v(313): [PCDPC] - Port size (9) does not match connection size (1) for port 'Q'. The port definition is at: C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/reg_enable.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /enhanced_processor_top/p0/reg_WEN File: C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/reg_enable.v
+do C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/simulation/modelsim/wave1.do
+run 2000
+restart -f -nolist -nowave -nolog -nobreak -novirtuals -noassertions -nofcovers -noatv
+# ** Warning: (vsim-3015) C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/processor.v(313): [PCDPC] - Port size (9) does not match connection size (1) for port 'D'. The port definition is at: C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/reg_enable.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /enhanced_processor_top/p0/reg_WEN File: C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/reg_enable.v
+# ** Warning: (vsim-3015) C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/processor.v(313): [PCDPC] - Port size (9) does not match connection size (1) for port 'Q'. The port definition is at: C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/reg_enable.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /enhanced_processor_top/p0/reg_WEN File: C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/reg_enable.v
+quit -sim
+# End time: 17:11:04 on Dec 02,2018, Elapsed time: 0:10:48
+# Errors: 0, Warnings: 6
+vlog -vlog01compat -work work +incdir+C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/processor.v
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:11:11 on Dec 02,2018
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor" C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/processor.v 
+# -- Compiling module processor
+# 
+# Top level modules:
+# 	processor
+# End time: 17:11:12 on Dec 02,2018, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+vlog -vlog01compat -work work +incdir+C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/enhanced_processor_top.v
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:11:13 on Dec 02,2018
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor" C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/enhanced_processor_top.v 
+# -- Compiling module enhanced_processor_top
+# 
+# Top level modules:
+# 	enhanced_processor_top
+# End time: 17:11:13 on Dec 02,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -vlog01compat -work work +incdir+C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/processor.v
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:11:19 on Dec 02,2018
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor" C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/processor.v 
+# -- Compiling module processor
+# 
+# Top level modules:
+# 	processor
+# End time: 17:11:19 on Dec 02,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Load canceled
+vsim work.enhanced_processor_top -Lf altera_mf_ver -Lf lpm_ver
+# vsim work.enhanced_processor_top -Lf altera_mf_ver -Lf lpm_ver 
+# Start time: 17:11:38 on Dec 02,2018
+# Loading work.enhanced_processor_top
+# Loading work.processor
+# Loading work.dec3to8
+# Loading work.reg_enable
+# Loading work.addsub
+# Loading work.counterlpm
+# Loading lpm_ver.lpm_counter
+# Loading work.sram_1p
+# Loading altera_mf_ver.altsyncram
+# Loading altera_mf_ver.altsyncram_body
+# Loading altera_mf_ver.ALTERA_DEVICE_FAMILIES
+# Loading altera_mf_ver.ALTERA_MF_MEMORY_INITIALIZATION
+# ** Warning: (vsim-3015) C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/processor.v(314): [PCDPC] - Port size (9) does not match connection size (1) for port 'D'. The port definition is at: C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/reg_enable.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /enhanced_processor_top/p0/reg_WEN File: C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/reg_enable.v
+# ** Warning: (vsim-3015) C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/processor.v(314): [PCDPC] - Port size (9) does not match connection size (1) for port 'Q'. The port definition is at: C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/reg_enable.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /enhanced_processor_top/p0/reg_WEN File: C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/reg_enable.v
+do C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/simulation/modelsim/wave1.do
+add wave -position 35  sim:/enhanced_processor_top/p0/DINsel
+quit -sim
+# End time: 17:40:47 on Dec 02,2018, Elapsed time: 0:29:09
+# Errors: 0, Warnings: 2
+vlog -vlog01compat -work work +incdir+C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/processor.v
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:41:17 on Dec 02,2018
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor" C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/processor.v 
+# -- Compiling module processor
+# 
+# Top level modules:
+# 	processor
+# End time: 17:41:17 on Dec 02,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -vlog01compat -work work +incdir+C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/enhanced_processor_top.v
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:41:19 on Dec 02,2018
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor" C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/enhanced_processor_top.v 
+# -- Compiling module enhanced_processor_top
+# 
+# Top level modules:
+# 	enhanced_processor_top
+# End time: 17:41:19 on Dec 02,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -vlog01compat -work work +incdir+C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/processor.v
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:41:24 on Dec 02,2018
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor" C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/processor.v 
+# -- Compiling module processor
+# 
+# Top level modules:
+# 	processor
+# End time: 17:41:24 on Dec 02,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vsim work.enhanced_processor_top -Lf altera_mf_ver -Lf lpm_ver
+# vsim work.enhanced_processor_top -Lf altera_mf_ver -Lf lpm_ver 
+# Start time: 17:41:39 on Dec 02,2018
+# Loading work.enhanced_processor_top
+# Loading work.processor
+# Loading work.dec3to8
+# Loading work.reg_enable
+# Loading work.addsub
+# Loading work.counterlpm
+# Loading lpm_ver.lpm_counter
+# Loading work.sram_1p
+# Loading altera_mf_ver.altsyncram
+# Loading altera_mf_ver.altsyncram_body
+# Loading altera_mf_ver.ALTERA_DEVICE_FAMILIES
+# Loading altera_mf_ver.ALTERA_MF_MEMORY_INITIALIZATION
+# ** Warning: (vsim-3015) C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/processor.v(328): [PCDPC] - Port size (9) does not match connection size (1) for port 'D'. The port definition is at: C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/reg_enable.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /enhanced_processor_top/p0/reg_WEN File: C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/reg_enable.v
+# ** Warning: (vsim-3015) C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/processor.v(328): [PCDPC] - Port size (9) does not match connection size (1) for port 'Q'. The port definition is at: C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/reg_enable.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /enhanced_processor_top/p0/reg_WEN File: C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/reg_enable.v
+do C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/simulation/modelsim/wave1.do
+add wave -position 35  sim:/enhanced_processor_top/p0/ProgCount/cnt_en
+add wave -position 33  sim:/enhanced_processor_top/p0/ADDRin
+quit -sim
+# End time: 17:52:04 on Dec 02,2018, Elapsed time: 0:10:25
+# Errors: 0, Warnings: 2
+vlog -vlog01compat -work work +incdir+C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/processor.v
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:54:21 on Dec 02,2018
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor" C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/processor.v 
+# -- Compiling module processor
+# 
+# Top level modules:
+# 	processor
+# End time: 17:54:22 on Dec 02,2018, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+vlog -vlog01compat -work work +incdir+C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/enhanced_processor_top.v
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:54:24 on Dec 02,2018
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor" C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/enhanced_processor_top.v 
+# -- Compiling module enhanced_processor_top
+# 
+# Top level modules:
+# 	enhanced_processor_top
+# End time: 17:54:24 on Dec 02,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -vlog01compat -work work +incdir+C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/dec3to8.v
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:54:35 on Dec 02,2018
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor" C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/dec3to8.v 
+# -- Compiling module dec3to8
+# 
+# Top level modules:
+# 	dec3to8
+# End time: 17:54:35 on Dec 02,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -vlog01compat -work work +incdir+C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/addsub.v
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:54:37 on Dec 02,2018
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor" C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/addsub.v 
+# -- Compiling module addsub
+# 
+# Top level modules:
+# 	addsub
+# End time: 17:54:37 on Dec 02,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -vlog01compat -work work +incdir+C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/counterlpm.v
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:54:39 on Dec 02,2018
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor" C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/counterlpm.v 
+# -- Compiling module counterlpm
+# 
+# Top level modules:
+# 	counterlpm
+# End time: 17:54:39 on Dec 02,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -vlog01compat -work work +incdir+C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/reg_enable.v
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:54:41 on Dec 02,2018
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor" C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/reg_enable.v 
+# -- Compiling module reg_enable
+# 
+# Top level modules:
+# 	reg_enable
+# End time: 17:54:41 on Dec 02,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -vlog01compat -work work +incdir+C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/sram_1p.v
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:54:42 on Dec 02,2018
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor" C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/sram_1p.v 
+# -- Compiling module sram_1p
+# 
+# Top level modules:
+# 	sram_1p
+# End time: 17:54:43 on Dec 02,2018, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+vsim work.enhanced_processor_top -Lf altera_mf_ver -Lf lpm_ver
+# vsim work.enhanced_processor_top -Lf altera_mf_ver -Lf lpm_ver 
+# Start time: 17:54:49 on Dec 02,2018
+# Loading work.enhanced_processor_top
+# Loading work.processor
+# Loading work.dec3to8
+# Loading work.reg_enable
+# Loading work.addsub
+# Loading work.counterlpm
+# Loading lpm_ver.lpm_counter
+# Loading work.sram_1p
+# Loading altera_mf_ver.altsyncram
+# Loading altera_mf_ver.altsyncram_body
+# Loading altera_mf_ver.ALTERA_DEVICE_FAMILIES
+# Loading altera_mf_ver.ALTERA_MF_MEMORY_INITIALIZATION
+# ** Warning: (vsim-3015) C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/processor.v(328): [PCDPC] - Port size (9) does not match connection size (1) for port 'D'. The port definition is at: C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/reg_enable.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /enhanced_processor_top/p0/reg_WEN File: C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/reg_enable.v
+# ** Warning: (vsim-3015) C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/processor.v(328): [PCDPC] - Port size (9) does not match connection size (1) for port 'Q'. The port definition is at: C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/reg_enable.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /enhanced_processor_top/p0/reg_WEN File: C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/reg_enable.v
+do C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/simulation/modelsim/wave1.do
+force -freeze sim:/enhanced_processor_top/SW 0 0, 1 {900 ps} -r 1000
+quit -sim
+# End time: 18:20:26 on Dec 02,2018, Elapsed time: 0:25:37
+# Errors: 0, Warnings: 2
+vlog -vlog01compat -work work +incdir+C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/processor.v
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 18:32:02 on Dec 02,2018
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor" C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/processor.v 
+# -- Compiling module processor
+# 
+# Top level modules:
+# 	processor
+# End time: 18:32:02 on Dec 02,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vsim work.enhanced_processor_top -Lf altera_mf_ver -Lf lpm_ver
+# vsim work.enhanced_processor_top -Lf altera_mf_ver -Lf lpm_ver 
+# Start time: 18:32:08 on Dec 02,2018
+# Loading work.enhanced_processor_top
+# Loading work.processor
+# Loading work.dec3to8
+# Loading work.reg_enable
+# Loading work.addsub
+# Loading work.counterlpm
+# Loading lpm_ver.lpm_counter
+# Loading work.sram_1p
+# Loading altera_mf_ver.altsyncram
+# Loading altera_mf_ver.altsyncram_body
+# Loading altera_mf_ver.ALTERA_DEVICE_FAMILIES
+# Loading altera_mf_ver.ALTERA_MF_MEMORY_INITIALIZATION
+# ** Warning: (vsim-3015) C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/processor.v(340): [PCDPC] - Port size (9) does not match connection size (1) for port 'D'. The port definition is at: C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/reg_enable.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /enhanced_processor_top/p0/reg_WEN File: C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/reg_enable.v
+# ** Warning: (vsim-3015) C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/processor.v(340): [PCDPC] - Port size (9) does not match connection size (1) for port 'Q'. The port definition is at: C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/reg_enable.v(1).
+#    Time: 0 ps  Iteration: 0  Instance: /enhanced_processor_top/p0/reg_WEN File: C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/reg_enable.v
+do C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/simulation/modelsim/wave1.do
+add wave -position 27  sim:/enhanced_processor_top/p0/Rin
+add wave -position 26  sim:/enhanced_processor_top/p0/RSel
+add wave -position 22  sim:/enhanced_processor_top/p0/Done
+add wave -position end  sim:/enhanced_processor_top/p0/R1
+add wave -position 41  sim:/enhanced_processor_top/p0/R0
+add wave -position end  sim:/enhanced_processor_top/p0/R2
+add wave -position end  sim:/enhanced_processor_top/p0/R3
+add wave -position end  sim:/enhanced_processor_top/p0/R4
+add wave -position end  sim:/enhanced_processor_top/p0/R5
+add wave -position end  sim:/enhanced_processor_top/p0/R6
+add wave -position 41  sim:/enhanced_processor_top/p0/Rin
+quit -sim
+# End time: 22:47:43 on Dec 02,2018, Elapsed time: 4:15:35
+# Errors: 0, Warnings: 2

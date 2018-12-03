@@ -1,0 +1,164 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/simulation/modelsim
+vaddsub
+!s110 1543802077
+!i10b 1
+!s100 2mDmY32Z3aA]h3EPX>hkB1
+I?3`E^be4;<aK]8n^GHD9j0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1543556870
+8C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/addsub.v
+FC:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/addsub.v
+L0 1
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1543802077.000000
+!s107 C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/addsub.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor|C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/addsub.v|
+!i113 1
+Z3 o-vlog01compat -work work
+Z4 !s92 -vlog01compat -work work +incdir+C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor
+Z5 tCvgOpt 0
+vcounterlpm
+!s110 1543802079
+!i10b 1
+!s100 DeJ2Zff^G5Q]1Nm]bVUWL3
+IamBSmCIbSSFkWB^RU;NP30
+R1
+R0
+w1543682724
+8C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/counterlpm.v
+FC:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/counterlpm.v
+Z6 L0 39
+R2
+r1
+!s85 0
+31
+!s108 1543802079.000000
+!s107 C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/counterlpm.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor|C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/counterlpm.v|
+!i113 1
+R3
+R4
+R5
+vdec3to8
+!s110 1543802075
+!i10b 1
+!s100 7fZE8:UUm4JHP>dCJ]:3R0
+ICm4;H8ia3EXNcRCnZcLnM1
+R1
+R0
+w1543617730
+8C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/dec3to8.v
+FC:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/dec3to8.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1543802075.000000
+!s107 C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/dec3to8.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor|C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/dec3to8.v|
+!i113 1
+R3
+R4
+R5
+venhanced_processor_top
+!s110 1543802064
+!i10b 1
+!s100 Tz8dV30S@i8c1hm3lH>hF2
+Ib`U4di@Sfan>VBdYWAIfe1
+R1
+R0
+w1543706305
+8C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/enhanced_processor_top.v
+FC:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/enhanced_processor_top.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1543802064.000000
+!s107 C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/enhanced_processor_top.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor|C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/enhanced_processor_top.v|
+!i113 1
+R3
+R4
+R5
+vprocessor
+!s110 1543804322
+!i10b 1
+!s100 bmVzQM3NV0QCebTK^N^7W3
+IR3n^mNZbleS4l6Zn[I^WS0
+R1
+R0
+w1543803800
+8C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/processor.v
+FC:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/processor.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1543804322.000000
+!s107 C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/processor.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor|C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/processor.v|
+!i113 1
+R3
+R4
+R5
+vreg_enable
+!s110 1543802081
+!i10b 1
+!s100 eWej7l@6ozDQ=Lo4CkNS_3
+IE3Fmh<D@GR7=3Ko?GZi;]3
+R1
+R0
+w1543553459
+8C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/reg_enable.v
+FC:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/reg_enable.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1543802081.000000
+!s107 C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/reg_enable.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor|C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/reg_enable.v|
+!i113 1
+R3
+R4
+R5
+vsram_1p
+!s110 1543802083
+!i10b 1
+!s100 NlAzMKo0O<I:MW2d3bz:R2
+Id5Ha:0[dKTPeL4VK=Vh[Z0
+R1
+R0
+w1543696059
+8C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/sram_1p.v
+FC:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/sram_1p.v
+R6
+R2
+r1
+!s85 0
+31
+!s108 1543802082.000000
+!s107 C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/sram_1p.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor|C:/Users/mfida/OneDrive/Documents/Altera/projects/EnhancedProcessor/sram_1p.v|
+!i113 1
+R3
+R4
+R5
